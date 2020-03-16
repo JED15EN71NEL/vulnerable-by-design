@@ -1,5 +1,5 @@
 +++
-title = "~whoami"
+title = "./whoami"
 +++
 
 My name is Courage and I am the author of this blog.
