@@ -1,6 +1,7 @@
 +++
 title = "Mobile Workflow"
-cover = "img/textastic.png"
+date: {{ .Date }}
+cover = "img/mobile-workflow.png"
 description = "I have finally found a mobile workflow for blogging."
 +++
 
