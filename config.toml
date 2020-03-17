@@ -18,7 +18,7 @@ paginate = 5
 
 [languages]
   [languages.en]
-    title = "vulnerable&#47by&#47.design"
+    title = 'vulnerable/by/.design'
     subtitle = ""
     keywords = ""
     copyright = ""
