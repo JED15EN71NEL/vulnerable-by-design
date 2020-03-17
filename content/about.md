@@ -26,4 +26,7 @@ The religion of my childhood taught me that a Creator God created humans in orde
 
 ## Vulnerable by Design
 
-In my career as a computer security engineer (aka **hacker**), there is a constant need to expand ones knowledge. One popular method for doing this are special machines designed to be vulnerable so that you can break into them and truly understand whatever the box was designed to teach. I have learned on many of these over the years but now the term has so much more meaning to me. I am vulnerable by design.
+In my career as a computer security engineer (aka **hacker**), there is a constant need to expand ones knowledge. One popular method for doing this is the use of special machines designed to be vulnerable so that you can break into them and truly understand whatever the box was designed to teach. I have learned on many of these over the years but now the term has so much more meaning to me. I am vulnerable by design. And this blog is my way of letting you break into my life so that you can learn whatever I was designed to teach.
+
+## Stay tuned
+This blog has only just begun. Expect to see varied content including technical HowTos, personal stories of my recovery journey, thoughts about the God of my understanding and even the occasional poem or song when the inspiration comes. 
