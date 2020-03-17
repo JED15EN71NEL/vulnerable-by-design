@@ -12,7 +12,8 @@ My name is Courage and I am the author of this blog.
 
 ## Vulnerable
 
-In the 12 Steps of Recovery used by Alcoholics Anonymous and other recovery programs, I was puzzled at first by steps 6 and 7:
+In the 12 Steps of Recovery used by Alcoholics Anonymous and other recovery programs, I was puzzled at first by steps 6 and 7
+
 6. _Were entirely ready to have God remove all these defects of character._
 7. _Humbly asked Him to remove our shortcomings._
 
