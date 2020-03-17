@@ -6,6 +6,3 @@ https://www.vulnerablebydesign.com/* https://vulnerableby.design/:splat 301!
 
 # Optional: Redirect default Netlify subdomain to primary domain
 https://hopeful-williams-5a8d36.netlify.com/* https://vulnerableby.design/:splat 301!
-
-# Redirect home
-/* /
