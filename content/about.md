@@ -3,7 +3,7 @@ title = "./whoami"
 cover = "img/hello.jpg"
 +++
 
-My name is Courage and I am the author of this blog.
+My name is Courage and this is my blog.
 
 ## A few things about me upfront
 
