@@ -47,10 +47,12 @@ paginate = 5
         identifier = "blog"
         name = "blog"
         url = "/blog"
+        weight = "1"
       [[languages.en.menu.main]]
         identifier = "about"
         name = "about"
         url = "/about"
+        weight = "2"
     #  [[languages.en.menu.main]]
     #    identifier = "archive"
     #    name = "archive"
