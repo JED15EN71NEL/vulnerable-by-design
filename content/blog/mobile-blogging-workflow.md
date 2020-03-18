@@ -1,6 +1,7 @@
 +++
 title = "Mobile Blogging Workflow"
 date = "2020-03-16"
+tags = "technical, howto"
 cover = "img/mobile-workflow.png"
 description = "I have finally found a mobile workflow for blogging."
 +++
