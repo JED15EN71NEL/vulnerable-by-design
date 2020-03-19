@@ -1,5 +1,5 @@
 +++
-title = "./whoami"
+title = "./about"
 cover = "img/hello.jpg"
 +++
 
